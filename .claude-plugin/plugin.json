@@ -1,0 +1,13 @@
+{
+  "name": "skills-updater",
+  "description": "Audit and update Claude Code plugins/skills to their latest versions",
+  "version": "1.0.0",
+  "author": {
+    "name": "dcuenot",
+    "url": "https://github.com/dcuenot"
+  },
+  "homepage": "https://github.com/dcuenot/claude-skills-updater",
+  "repository": "https://github.com/dcuenot/claude-skills-updater",
+  "license": "MIT",
+  "keywords": ["skills", "plugins", "updater", "audit", "versioning"]
+}
